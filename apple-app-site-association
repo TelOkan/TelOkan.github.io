@@ -10,7 +10,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "A3T8GPBKQ27.com.LVSFreelance.AuthenticationApp1",
+                "appID": "com.LVSFreelance.AuthenticationApp1.dev",
                 "paths": [
                     "*"
                 ]
