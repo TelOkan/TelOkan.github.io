@@ -1,16 +1,16 @@
 {
     "webcredentials": {
         "apps": [
-            "A3T8GPBKQ27.com.LVSFreelance.AuthenticationApp1",
-            "A3T8GPBKQ27.com.LVSFreelance.AuthenticationApp1.QA",
-            "A3T8GPBKQ27.com.LVSFreelance.AuthenticationApp1.Dev"
+            "A3T8GPBKQ27.com.LVSFreelance.authApp",
+            "A3T8GPBKQ27.com.LVSFreelance.authApp.QA",
+            "A3T8GPBKQ27.com.LVSFreelance.authApp.Dev"
         ]
     },
     "applinks": {
         "apps": [],
         "details": [
             {
-                "appID": "com.LVSFreelance.AuthenticationApp1.dev",
+                "appID": "A3T8GPBKQ27.com.LVSFreelance.authApp",
                 "paths": [
                     "*"
                 ]
