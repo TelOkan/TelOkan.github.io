@@ -7,11 +7,7 @@
         ]
     },
     "applinks": {
-        "apps": [
-            "3T8GPBKQ27.com.LVSFreelance.AuthenticationApp1",
-            "3T8GPBKQ27.com.LVSFreelance.AuthenticationApp1.QA",
-            "3T8GPBKQ27.com.LVSFreelance.AuthenticationApp1.Dev"
-        ],
+        "apps": [],
         "details": [
             {
                 "appID": "3T8GPBKQ27.com.LVSFreelance.AuthenticationApp1",
