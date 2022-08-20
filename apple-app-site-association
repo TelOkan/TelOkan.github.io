@@ -3,6 +3,17 @@
         "apps": [
             "3T8GPBKQ27.com.LVSFreelance.authApp1"
         ]
+    },
+
+"applinks": {
+        "apps": [],
+        "details": [
+          
+            {
+                "appID": "3T8GPBKQ27.com.LVSFreelance.authApp1",
+                "paths": [ "*" ]
+            }
+        ]
     }
  
 }
