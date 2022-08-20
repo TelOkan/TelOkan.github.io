@@ -1,4 +1,11 @@
 {
+ "webcredentials": {
+        "apps": [
+            "3T8GPBKQ27.com.LVSFreelance.authApp1",
+            "3T8GPBKQ27.com.LVSFreelance.authApp1.QA",
+            "3T8GPBKQ27.com.LVSFreelance.authApp1.Dev"
+        ]
+    },
    "applinks": {
         "apps": [],
         "details": [
