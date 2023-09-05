@@ -1,7 +1,6 @@
 {
  "webcredentials": {
         "apps": [
-            "5KSLUB73C5.com.TelOkan.keyChain1",
             "5KSLUB73C5.com.LiveView.DeepLinkDemo"
         ]
     },
@@ -9,11 +8,6 @@
 "applinks": {
         "apps": [],
         "details": [
-          
-            {
-                "appID": "5KSLUB73C5.com.TelOkan.keyChain1",
-                "paths": [ "*" ]
-            },
             {
                 "appID": "5KSLUB73C5.com.LiveView.DeepLinkDemo",
                 "paths": [ "/giftcode/" ]
