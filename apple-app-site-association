@@ -23,7 +23,7 @@
 		
 	   {
                 "appID": "5KSLUB73C5.com.LiveView.DeepLinkDemo",
-                "paths": [ "/giftcode/" ]
+                "paths": [ "/giftcode/*" ]
             }
 	
 		
