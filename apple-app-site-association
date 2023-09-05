@@ -10,7 +10,7 @@
         "details": [
             {
                 "appID": "5KSLUB73C5.com.LiveView.DeepLinkDemo",
-		"paths": ["/url?lCHCf5nucFhOW0OqZbkw=*"]
+		"paths": ["/url/*"]
             }
         ]
     }
